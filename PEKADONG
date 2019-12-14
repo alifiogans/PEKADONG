@@ -1,0 +1,73 @@
+#!/bin/bash
+#aku menyayangi dia dalam doa:)
+#saya Buat Tools Ini Karena Saya Terinspirasi Bukan Recode Tools Orang:v
+#rcode membuatmu Menjadi Semakin Bodoh:v
+
+ulang="y"
+while [ $ulang = "y" ];
+do
+  clear
+  echo "${r}[-----------------------------------------------] " | lolcat
+  echo "${w}[----------------Tools Hacker Bucin-------------] " | lolcat
+  echo "${r}[                Author : Tn.Alifio             ] " | lolcat
+  echo "${w}[              Team :C꙰Y꙰B꙰E꙰R꙰ A꙰R꙰M꙰Y꙰ 2019            ] " | lolcat
+  echo "${r}[             Thanks : Tuhan Yang Maha Esa      ] " | lolcat
+  echo "${w}[-----------------------------------------------] " | lolcat
+  echo
+  echo "${r}{1}Arti Dari Kata LDR " | lolcat
+  echo
+  echo "{2}Aku Sayang Dia " | lolcat
+  echo
+  echo "${r}{3}exit " | lolcat
+  read -p "${w}Pilih Yang Mana : " pilih;
+  if [ $pilih = "1" ];
+  then
+      sleep 1
+      clear
+      echo "${r}LDR merupakan singkatan dari Long Distance Relationship yang artinya adalah hubungan jarak jauh:v " | lolcat
+      sleep 2
+      sleep 2
+      clear
+      echo "${r}Sama Seperti Dia Yang Pergi entah Kemana :v " | lolcat
+      sleep 2
+      sleep 2
+      clear
+      figlet BUCIN | lolcat
+      sleep 2
+      clear
+  elif [ $pilih = "2" ];
+  then
+      sleep 2
+      clear
+      echo "${y}Percuma Bro Kalau Lu Sayang Dia Tapi Dia Sayang Orang Lain " | lolcat
+      sleep 2
+      clear
+      echo "Kamu Mengejar Sesuatu Yang Tak Pasti " | lolcat
+      sleep 2
+      clear
+      echo "Terlalu Lama Memperjuangkannya Tetapi Tidak Dihargai " | lolcat
+      sleep 2
+      clear
+      echo "${r}Dia Bukannya Tidak Peka " | lolcat
+      sleep 2
+      clear
+      echo "${r}Dia Tahu Kalau Kamu Mencintainya " | lolcat
+      sleep 2
+      clear
+      echo "${r}Hanya Saja Tidak Mempedulikanmu " | lolcat
+      sleep 2
+      clear
+      echo "${y}Yang Sabar Bro:* " | lolcat
+      sleep 2
+      echo "${b}Kita Senasib:/ " | lolcat
+      clear
+  elif [ $pilih = "3" ];
+  then
+      echo "${r}#terima kasih telah menemanin saya mencurahkan hati saya " | lolcat
+      sleep 2
+      echo "${b}#Jangan Lupa Follow Ig Saya : @tn.alifiogans " | lolcat
+      sleep 2
+      echo "${y}#Semoga Pujaan Hati Kalian Peka Terhadap Mu :) " | lolcat
+      exit
+  fi
+selesai
